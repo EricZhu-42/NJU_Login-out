@@ -8,7 +8,7 @@ A program about login/logout campus Internet at Nanjing University, based on Aut
 1. 连接到南京大学校内网（宽带或WiFi）  
 	Connect to campus Internet of NJU via broadband or WiFi.
 2. 运行`dist\`目录下的`NJU_Login.exe`程序。  
-	Execute `dist\NJU_Login.exe'
+	Execute `dist\NJU_Login.exe`
 3. 在第一次运行时，你将会需要输入用户名（学号）与密码。  
 	When you run this program for the first time, you will need to input your username(Student ID) and password.
 4. 程序运行后，将会自动连接校园网，并且返回“连接成功”提示。  
