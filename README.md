@@ -16,5 +16,7 @@ A program about login/logout campus Internet at Nanjing University, based on Aut
 5. 连接校园网后，按下`Ctrl+G`组合键来断开校园网连接。同时亦会返回“已断开”的提示。  
 	After having successfully connected to campus Internet of NJU, you can press `Ctrl+G` to disconnet from it. A message of "Disconneting from the Internet" (Chinese) will be shown on the screen simultaneously.
 	
-### 其他问题：  Other Questions:
-To be continued.
+### 致谢： Acknowledgements:
+
+本项目参考了由 [Zheng H. Xue](https://github.com/AIDefender) 移植为Python3版本的 [p.nju-login](https://github.com/ZLCao/p.nju-login) 项目（原作者为 [Zachary Cao](https://github.com/ZLCao)）。  
+Prototype of this program is based on the Python3 version of [p.nju-login](https://github.com/ZLCao/p.nju-login), which is originaly created by [Zachary Cao](https://github.com/ZLCao) and later developed to Python3 by [Zheng H. Xue](https://github.com/AIDefender).
